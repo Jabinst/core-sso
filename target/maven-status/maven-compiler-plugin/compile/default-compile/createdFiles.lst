@@ -1,0 +1,16 @@
+com\jabin\core\sso\validate\KingkooSsoTicketValidator.class
+com\jabin\core\sso\filter\KingkooSsoFilter.class
+com\jabin\core\sso\session\RedisSessionDAO.class
+com\jabin\core\sso\login\SsoLoginState.class
+com\jabin\core\sso\validate\KingkooSsoValidateResponse.class
+com\jabin\core\sso\cache\CacheUtil.class
+com\jabin\core\sso\realm\KingkooSsoRealm.class
+com\jabin\core\sso\login\SsoLoginUtil.class
+com\jabin\core\sso\tool\SpringTool.class
+com\jabin\core\sso\validate\KingkooSsoValidateResult.class
+com\jabin\core\sso\session\SsoSessionUtils.class
+com\jabin\core\sso\SsoConstants.class
+com\jabin\core\sso\filter\KingkooSsoLogoutFilter.class
+com\jabin\core\sso\session\SsoSessionKey.class
+com\jabin\core\sso\token\KingkooSsoToken.class
+com\jabin\core\sso\tool\SerializeUtil.class
